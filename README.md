@@ -10,7 +10,7 @@ A responsive product page where users can design custom t-shirts with **live tex
 
 Open `index.html` directly in any modern browser — no server, no build step, no installs.
 
-**Or visit:** _[Add your GitHub Pages link here after deploying]_
+**Or visit:** (https://github.com/praveen93h/CraftEdge/)
 
 ---
 
@@ -19,8 +19,6 @@ Open `index.html` directly in any modern browser — no server, no build step, n
 | Desktop | Mobile |
 |---------|--------|
 | ![Desktop View](screenshots/desktop.png) | ![Mobile View](screenshots/mobile.png) |
-
-> _Replace with actual screenshots before submitting._
 
 ---
 
@@ -133,7 +131,7 @@ Then open `http://localhost:8000` in your browser.
 
 ## 👤 Author
 
-**Praveen** — [GitHub](https://github.com/your-username)
+**Praveen** — [GitHub](https://github.com/praveen93h/)
 
 ---
 
