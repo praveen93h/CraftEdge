@@ -10,7 +10,7 @@ A responsive product page where users can design custom t-shirts with **live tex
 
 Open `index.html` directly in any modern browser — no server, no build step, no installs.
 
-**Or visit:** (https://github.com/praveen93h/CraftEdge/)
+**Or visit:** ([https://github.com/praveen93h/CraftEdge/](https://craft-edge.praveen-a3b.workers.dev/))
 
 ---
 
