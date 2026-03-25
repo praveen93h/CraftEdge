@@ -64,7 +64,6 @@ craftedge-solution/
 ├── js/
 │   └── app.js          # All interactivity and logic
 ├── screenshots/        # Screenshots for README 
-├── PLAN.md             # Development plan and architecture notes
 └── README.md           # This file
 ```
 
